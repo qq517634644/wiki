@@ -2,10 +2,10 @@ created: 20220707024756085
 creator: TidGiUser
 draft.of: CpMngAtmHour.predict
 draft.title: CpMngAtmHour.predict
-modified: 20220707053834584
+modified: 20220707063049903
 modifier: TidGiUser
-tags: 小时预测
+tags: 小时预测 未完成
 title: Draft of 'CpMngAtmHour.predict' by TidGiUser
-tmap.edges: {}
+tmap.edges: {"4f55f17a-34be-42b5-97bd-4fc7b7b207c9":{"to":"ae52edc2-db08-450f-a69d-6fe6829b7d67","type":"tmap:unknown"}}
 tmap.id: edd2e3ed-5377-43a1-89de-604bddeab7fd
 type: text/x-markdown
