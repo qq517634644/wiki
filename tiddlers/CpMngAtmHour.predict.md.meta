@@ -1,7 +1,8 @@
 created: 20220707024756085
 creator: TidGiUser
-modified: 20220707062113111
-modifier: TidGiUser
+modified: 20220707104906581
+modifier: Tensai
+name: 小时预测方法
 tags: 小时预测
 title: CpMngAtmHour.predict
 tmap.edges: {"4f55f17a-34be-42b5-97bd-4fc7b7b207c9":{"to":"ae52edc2-db08-450f-a69d-6fe6829b7d67","type":"tmap:unknown"}}

@@ -1,0 +1,5 @@
+- service:StdJdbcServiceI 提供基本的JDBC查询
+- cpMngEntity:[[CpMngAtmEntity - cp_mng_atm]]
+- start:Date
+- end:Date
+- cashValNum:int

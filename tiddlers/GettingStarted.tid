@@ -1,7 +1,7 @@
 created: 20220707024842496
 creator: TidGiUser
-modified: 20220707032136393
-modifier: TidGiUser
+modified: 20220707104505192
+modifier: Tensai
 title: GettingStarted
 tmap.id: 2d7487f2-79c6-4604-9531-76dd9bdc2a1b
 type: text/vnd.tiddlywiki
@@ -19,7 +19,5 @@ type: text/vnd.tiddlywiki
 |<$link to="$:/SiteSubtitle"><<lingo Subtitle/Prompt>></$link> |<$edit-text tiddler="$:/SiteSubtitle" default="" tag="input"/> |
 |<$link to="$:/DefaultTiddlers"><<lingo DefaultTiddlers/Prompt>></$link> |<<lingo DefaultTiddlers/TopHint>><br> <$edit tag="textarea" tiddler="$:/DefaultTiddlers"/><br>//<<lingo DefaultTiddlers/BottomHint>>// |
 </div>
-
-cpMngAtmHour.predict
 
 请参阅[[控制台|$:/ControlPanel]]查看更多选项。
