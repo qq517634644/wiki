@@ -2,4 +2,4 @@
 - cpMngEntity:[[CpMngAtmEntity - cp_mng_atm]]
 - start:Date
 - end:Date
-- cashValNum:int
+- cashValNum:int  币种数量

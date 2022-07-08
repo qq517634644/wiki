@@ -1,7 +1,7 @@
 # 简介
 - 现金预测模型1 
 - 适用于存取款机（非循环机）预测
-- 标识 CP_MODE_1
+- 标识 CP_MODE_1 
 # 参数
 {{CpMngAtmHour-Params_of_Method-predict1,predict2}}
 # 返回
