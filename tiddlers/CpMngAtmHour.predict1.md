@@ -8,7 +8,7 @@
 - boolean 是否预测成功
 # 方法详情
 1. 获取配置文件信息[[sysConfigCp.properties]] - [[algorithmHour - BAGGING]] 算法
-2. 获取参数信息 [[CpParamTypeEntity - cp_param_type]] -> CpMngParams
+2. 获取参数信息 [[CpParamTypeEntity - cp_param_type]] -> `CpMngParams`
 3. 获取配置文件信息[[sysConfigCp.properties]] - `cpModelPath` 模型存放路径
 4. 初始化需要预测的存取款容器 `List`
 5. 根据币种数量循环（存取款分开）
